@@ -1,3 +1,6 @@
-# web-dev-bootcamp-angela-yu-simon-game
+# Simon Game
 Udemy - The Complete 2022 Web Development Bootcamp - Dr. Angela Yu <br/>
 Solution for The Simon Game challenge
+
+# Live site
+[Simon Game](https://theksbd.github.io/web-dev-bootcamp-angela-yu-simon-game/)
